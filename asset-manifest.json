@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/dilkushrajpurohit.github.io/react-deliver/static/js/main.b0737ab2.chunk.js",
+    "main.js.map": "/dilkushrajpurohit.github.io/react-deliver/static/js/main.b0737ab2.chunk.js.map",
+    "runtime-main.js": "/dilkushrajpurohit.github.io/react-deliver/static/js/runtime-main.1462f6e7.js",
+    "runtime-main.js.map": "/dilkushrajpurohit.github.io/react-deliver/static/js/runtime-main.1462f6e7.js.map",
+    "static/js/2.9d4ec123.chunk.js": "/dilkushrajpurohit.github.io/react-deliver/static/js/2.9d4ec123.chunk.js",
+    "static/js/2.9d4ec123.chunk.js.map": "/dilkushrajpurohit.github.io/react-deliver/static/js/2.9d4ec123.chunk.js.map",
+    "index.html": "/dilkushrajpurohit.github.io/react-deliver/index.html",
+    "static/js/2.9d4ec123.chunk.js.LICENSE.txt": "/dilkushrajpurohit.github.io/react-deliver/static/js/2.9d4ec123.chunk.js.LICENSE.txt",
+    "static/media/925816117s.5dae025d.jpg": "/dilkushrajpurohit.github.io/react-deliver/static/media/925816117s.5dae025d.jpg",
+    "static/media/st-johns-abu-road-1.41f2a86e.jpg": "/dilkushrajpurohit.github.io/react-deliver/static/media/st-johns-abu-road-1.41f2a86e.jpg",
+    "static/media/st.ec6c9f2d.jpg": "/dilkushrajpurohit.github.io/react-deliver/static/media/st.ec6c9f2d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1462f6e7.js",
+    "static/js/2.9d4ec123.chunk.js",
+    "static/js/main.b0737ab2.chunk.js"
+  ]
+}
